@@ -4,6 +4,8 @@ This repository is the official PyTorch implementation of [***Weakly Supervised 
 
 This repository also provides the access to the [***WS-SFDD***](#data-preparation) dataset, which consists of 4291 image-level labeled sea fog remote sensing images collected by Himawari-8, covering sea fog events occurred in the Yellow Sea and the Bohai Sea from 2017 to 2021.
 
+-- If you find this repository useful, please consider giving it a ⭐️.
+
 ## Framework
 
 ![framework](assets/framework.png)
