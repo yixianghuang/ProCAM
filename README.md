@@ -32,8 +32,7 @@ This repository also provides the access to the [***WS-SFDD***](#data-preparatio
 
 ## Data Preparation
 
-The ***WS-SFDD*** dataset can be accessed via [**Google Drive**](https://drive.google.com/file/d/1c6JaZTxMohoesa50AEameoMxPUjrMABc/view?usp=sharing).
-
+The ***WS-SFDD*** dataset can be accessed via [**Google Drive**](https://drive.google.com/file/d/1c6JaZTxMohoesa50AEameoMxPUjrMABc/view?usp=sharing) or [**Baidu Pan**](https://pan.baidu.com/s/1TLKf6I-_ujwE-hFfdeCyQw?pwd=PRIS).
 You can extract the downloaded data into the folder ```<YOUR DATASET ROOT>``` and create a symbolic link:
 
 ```bash
